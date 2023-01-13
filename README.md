@@ -144,7 +144,7 @@ keymap({"n", "t"} "<A-d>", "<cmd>Lspsaga term_toggle<CR>")
 
 ## :Lspsaga lsp_finder
 
-`Finder` to show the defintion,reference,implement(only show when current word is interface or some type)
+`Finder` to show the definition,reference,implement(only show when current word is interface or some type)
 
 default finder options
 
